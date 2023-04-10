@@ -1,4 +1,4 @@
-package ejercicios.ejercicio2;
+package ejercicios.ejercicio2.binario;
 
 import java.io.File;
 import java.io.FileNotFoundException;

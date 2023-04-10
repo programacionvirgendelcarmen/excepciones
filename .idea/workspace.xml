@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c407f99e-c707-4571-b165-b8b2dd7994af" name="Changes" comment="Fin teoría">
+    <list default="true" id="c407f99e-c707-4571-b165-b8b2dd7994af" name="Changes" comment="Ejercicio 2, falta hexadecimal">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FICHEROS/hexadecimal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio2/hexadecimal/Hexadecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio2/hexadecimal/HexadecimalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio2/hexadecimal/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio2/Binario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio2/binario/Binario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio2/BinarioException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio2/binario/BinarioException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio2/binario/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/manuel/curso_22_23/excepciones/FICHEROS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/manuel/curso_22_23/excepciones/FICHEROS"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FICHEROS" />
@@ -66,12 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680183932282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicio 2, falta hexadecimal">
+      <created>1680277441138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680277441138</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio de repositorio" />
     <MESSAGE value="Fin teoría" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fin teoría" />
+    <MESSAGE value="Ejercicio 2, falta hexadecimal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2, falta hexadecimal" />
   </component>
 </project>

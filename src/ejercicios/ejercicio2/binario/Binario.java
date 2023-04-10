@@ -1,9 +1,9 @@
-package ejercicios.ejercicio2;
+package ejercicios.ejercicio2.binario;
 
 import java.util.List;
 
 public class Binario {
-    private String valorBinario;
+    private String valorBinario; //0 ó 1
 
     public Binario(String valorBinario) throws BinarioException {
         if (valorBinario.matches("[01]+"))
